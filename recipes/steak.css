@@ -2,17 +2,10 @@ html{
     background-color: #F6F6F6;
     height: 50%;
 }
-#title{
+
+h1{
     background-color: #6c7d56;
     color: #F6F6F6;
     line-height: 100px;
     
 }
-
-.recipes{    
-    justify-content: center;
-    gap: 200px;
-    padding: 16px;
-    display: flex;
-}
-
